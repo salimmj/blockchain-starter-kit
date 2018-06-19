@@ -57,7 +57,7 @@ You also want to set up a DevOps toolchain that will automatically build, test, 
 
 Click the following link to set up a DevOps toolchain for your blockchain application:
 
-[Set up DevOps toolchain](https://console.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/sstone1/blockchain-starter-kit&branch=master&env_id=ibm%3Ayp%3Aus-south&deploy-region=ibm%3Ayp%3Aus-south)
+[Set up DevOps toolchain](https://console.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/salimmj/blockchain-starter-kit&branch=master&env_id=ibm%3Ayp%3Aus-south&deploy-region=ibm%3Ayp%3Aus-south)
 
 The "Create a Toolchain" page will appear:
 
