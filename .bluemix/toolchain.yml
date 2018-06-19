@@ -7,7 +7,7 @@ template:
     - build
 
 toolchain:
-  name: 'blockchain-starter-kit-{{timestamp}}'
+  name: 'supply-chain-{{timestamp}}'
 
 services:
   repo:
